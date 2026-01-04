@@ -24,4 +24,17 @@ print(5 % 4)
 
 print('Tushar + Rutuja')
 
+# Varibles
+# variable is a container where you put your values (storing values)
+x = 6
+x = x + 3 
+print(x)
+
+y = 12
+print(x+y)
+
+# In this lan. there is no error like other languages you can assign another value in the same variable
+x = 10
+print(x)
+
 
