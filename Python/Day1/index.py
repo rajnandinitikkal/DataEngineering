@@ -37,4 +37,16 @@ print(x+y)
 x = 10
 print(x)
 
+#  String in python is immutable
+abc = 'youtube'
+print(abc)
 
+print(abc[3])
+print(abc[0:4])
+# print(abc[0:3] = 'my') we will not change string bcz strings are immutable
+# another option This will print as what you want
+print('my' + abc[3:])
+
+print(len(abc))
+
+print(5,6,7, sep=",")
