@@ -21,3 +21,5 @@ https://www.youtube.com/watch?v=DWgzHbglNIo&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-
 - How to write code in python 
 - print statement
 - Addition / Substraction / multiplication ..
+- variables
+- operations on string
