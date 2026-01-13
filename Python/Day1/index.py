@@ -50,3 +50,6 @@ print('my' + abc[3:])
 print(len(abc))
 
 print(5,6,7, sep=",")
+
+q =(1 + 2j) * (3 + 4j)
+print(q)
