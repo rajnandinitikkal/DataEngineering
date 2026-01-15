@@ -83,3 +83,23 @@ Examples:
 * Where it goes
 * In what format
 * How often it updates
+
+### Difference between Database and Data Warehouse
+#### Database (RDBMS)
+1) Oracle
+2) MySQL
+3) PostgresSQL (open source) - good choice for data engineering
+4) MS SQL Server
+5) Sybase
+- Data stored in the form of tables, columns, Data types, Rows or records
+- Transactional (OLTP) For Mobile or Web
+
+#### Data Warehouse
+1) Snowflake
+2) Databricks
+3) Teradata
+4) GCP BigQuery
+5) AWS Redshift
+6) Azure Synapse
+- Data stored in the form of tables, columns, Data types, Rows or records
+- Reports and databases (OLAP or DSS)
