@@ -1,5 +1,12 @@
 ### SQL
 - SQL: sql is a Structured Query Langauge which is a computer language for storing , manipulating and retriving stored data in relational database.
+- Database: Database is an organised collection of data.
+- A methos to manipulate and access data.
+##### Why we need database instead of excelsheet
+At the point excelsheet not loads data properly and it has limit, When you have big number of data and then you need to go with database
+
+##### SQL vs postgreSQL
+- SQL is a structured query language which is used to talk to our database.
 
 ### For data engineering learning we will learn postgreSQL
 #### PosgreSQL 
@@ -7,6 +14,9 @@
 - It is poweful, free, industry-accepted and SLQ-standard
 - PostgreSQL is 100% free
 - postgreSQL is RDBMS
+- PostgreSQL is not case-sensitive
+---> CREATE / create / Create / CreaTe all are same in SQL.
+
 
 
 ##### PostgreSQL is good for: 
