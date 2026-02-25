@@ -15,9 +15,7 @@ At the point excelsheet not loads data properly and it has limit, When you have 
 - PostgreSQL is 100% free
 - postgreSQL is RDBMS
 - PostgreSQL is not case-sensitive
----> CREATE / create / Create / CreaTe all are same in SQL.
-
-
+---> CREATE / create / Create / CreaTe all are same in SQL
 
 ##### PostgreSQL is good for: 
 - large data                        - Grouping

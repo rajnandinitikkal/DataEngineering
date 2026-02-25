@@ -9,6 +9,7 @@ Here you get all notes from scratch
 - [Roadmap](./Roadmap/roadmap.md)
 
 - Start from Python (Easy to learn) 👇
-[Python Notes](./Python/)
+  [Python Notes](./Python/)
 
-- [Learn SQL](./SQL/)
+- [Learn PostgreSQL](./SQL/)
+- [Leetcode Problems (Easy and med level)](./SQL//Leetcode_Problems/)
