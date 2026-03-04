@@ -6,6 +6,9 @@ CREATE TABLE Orders(
 INSERT INTO Orders(order_number, customer_number)
 VALUES(1,1), (2,2), (3,3), (4,3);
 
-SELECT MAX(customer_number) 
+SELECT customer_number
 AS customer_number
-FROM Orders;
+FROM Orders
+GROUP BY customer_number
+ORDER BY COUNT(*) DESC
+LIMIT 1;
