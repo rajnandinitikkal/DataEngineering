@@ -21,8 +21,6 @@ Return the result table in any order.
 
 The query result format is in the following example.
 
- 
-
 Example 1:
 
 Input: 
@@ -35,6 +33,7 @@ Transactions table:
 | 123  | US      | approved | 2000   | 2019-01-01 |
 | 124  | DE      | approved | 2000   | 2019-01-07 |
 +------+---------+----------+--------+------------+
+
 Output: 
 +----------+---------+-------------+----------------+--------------------+-----------------------+
 | month    | country | trans_count | approved_count | trans_total_amount | approved_total_amount |
