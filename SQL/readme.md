@@ -3,6 +3,3 @@
 - [About Functions](./Imp_Information//Functions/)
 - [Leetcode Problems Solution](./Leetcode_Problems/)
 
-
-
-
